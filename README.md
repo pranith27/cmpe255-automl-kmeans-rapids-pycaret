@@ -1,4 +1,4 @@
-# CMPE 255 — Machine Learning Notebooks: From Zero to Hero
+# CMPE 255 — Clustering and AutoML
 
 This repository contains six Google Colab notebooks for CMPE 255 Data Mining. The notebooks cover K-means clustering, AutoGluon, NVIDIA RAPIDS, PyCaret, and MLOps, with a combination of algorithm-focused study and practical capability demonstrations.
 
