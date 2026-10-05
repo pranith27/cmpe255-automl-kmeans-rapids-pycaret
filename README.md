@@ -8,12 +8,12 @@ The work is organized into six assignment parts. Each notebook is based on the c
 
 | **Part** | **Notebook** | **Focus** | **YouTube** |
 | -------- | ------------ | --------- | ----------- |
-| 1 | [`01_kmeans.ipynb`](part1-kmeans/01_kmeans.ipynb) | K-means clustering and variations |  |
-| 2 | [`02_autogluon_capabilities.ipynb`](part2-autogluon/02_autogluon_capabilities.ipynb) | AutoGluon capabilities landscape |  |
-| 3 | [`03_autogluon_end_to_end.ipynb`](part3-autogluon/03_autogluon_end_to_end.ipynb) | AutoGluon end-to-end ML workflow |  |
-| 4 | [`04_rapids_cpu_vs_gpu.ipynb`](part4-rapids/04_rapids_cpu_vs_gpu.ipynb) | NVIDIA RAPIDS and CPU/GPU comparison |  |
-| 5 | [`05_pycaret_capabilities.ipynb`](part5-pycaret/05_pycaret_capabilities.ipynb) | PyCaret capabilities landscape |  |
-| 6 | [`06_pycaret_mlops.ipynb`](part6-pycaret/06_pycaret_mlops.ipynb) | PyCaret MLOps workflow |  |
+| 1 | [`01_kmeans.ipynb`](part1-kmeans/01_kmeans.ipynb) | K-means clustering and variations | https://youtu.be/T8vqyqKRv-8 |
+| 2 | [`02_autogluon_capabilities.ipynb`](part2-autogluon/02_autogluon_capabilities.ipynb) | AutoGluon capabilities landscape | https://youtu.be/l2RCSJbBUqw |
+| 3 | [`03_autogluon_end_to_end.ipynb`](part3-autogluon/03_autogluon_end_to_end.ipynb) | AutoGluon end-to-end ML workflow | https://youtu.be/YK-V9t7ZHz0 |
+| 4 | [`04_rapids_cpu_vs_gpu.ipynb`](part4-rapids/04_rapids_cpu_vs_gpu.ipynb) | NVIDIA RAPIDS and CPU/GPU comparison | https://youtu.be/vwsBTDRIa_M |
+| 5 | [`05_pycaret_capabilities.ipynb`](part5-pycaret/05_pycaret_capabilities.ipynb) | PyCaret capabilities landscape |https://youtu.be/s09tZyYAld4  |
+| 6 | [`06_pycaret_mlops.ipynb`](part6-pycaret/06_pycaret_mlops.ipynb) | PyCaret MLOps workflow | https://youtu.be/bh9DQB_q2nQ |
 
 ## What the notebooks cover
 
