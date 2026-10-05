@@ -82,11 +82,6 @@ The committed `.ipynb` files retain the outputs generated during execution — p
 
 For the most reliable rerun: open each notebook in Colab, select the appropriate runtime, restart the session when required by the setup cells, and run all cells sequentially.
 
-## Walkthrough videos
-
-The assignment requires a detailed walkthrough of the six notebooks, explaining the important code sections, what the major cells do, and the outputs produced during the student's own Colab execution. Per-part walkthroughs are linked in the table above.
-
-Tutorial video: _Add the final video link here._
 
 ## Repository structure
 
@@ -114,9 +109,6 @@ cmpe255-automl-kmeans-rapids-pycaret/
     └── 06_pycaret_mlops.ipynb
 ```
 
-## Reference Colabs
-
-The notebooks correspond to the six reference Colabs covering K-means clustering, AutoGluon capabilities, AutoGluon end-to-end ML, NVIDIA RAPIDS, PyCaret capabilities, and PyCaret MLOps.
 
 ## Course
 
